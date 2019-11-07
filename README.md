@@ -1,7 +1,7 @@
 # hellow-world
-第一次编程学习
+第一次编程学习（第一次记录）
 Make and commit changes
-但是怎样才能建立一个“develop.txt”的文件，并提交一个commit呢？
+如何才能建立一个“develop.txt”的文件，并提交一个commit呢？现在依然是md格式
 完成一个教程以后再一次在master下建立了一个develop2 branch。并且在Edit file加入文本框（但是依然是md格式，而不是txt）
 在第二次走教程中，不太熟练，现在第三次在master下create develop3 branch（依然是md格式，而不是txt）
 第四次走教程，第三次非常顺利走下来了。现在在master下create develop4 branch （md格式）
@@ -14,3 +14,4 @@ create develop8 branch，在develop7 branch中删除的内容，在pull request�
 create develop9 branch，在branch删减的内容，在pull request中是以红色标出了原先内容和删减后的内容，本次实验修改内容：（）改成md格式，没有成为txt
 create develop10 branch，休息半小时后在走一遍流程，次怪develop9，增加“没有成为txt”
 create develop11 branch，修改应该在develop11 branch中的Edit file中进行。
+create develop12 branch，对之前的develop进行大面积修改。
