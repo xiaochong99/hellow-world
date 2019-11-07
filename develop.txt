@@ -21,3 +21,4 @@ create developA branch，并且咋developA branch创建developA.txt文件。那�
 但是这个时候再点击master branch 就会出现“404”页面。跟刚才是出现的问题一样。
 那接下来不去看master branch怎样，直接create new pull request，把developA branch与master branch进行Merge。看看效果如何。
 把developA.txt与master进行merge后，master的文件也自动变成了在developA branch中建立的decelopA.txt文件。
+在master branch下创建了develop branch，在develop branch下通过Edit file把developA.txt修改为develop.txt并commit changes
