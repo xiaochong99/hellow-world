@@ -12,3 +12,4 @@ create develop6 branch
 create develop7 branch，尝试删除“测rate develop6 branch中的字：md格式”
 create develop8 branch，在develop7 branch中删除的内容，在pull request中，用红色显示了删减记录。本次再一次重复尝试删除内容：md格式
 create develop9 branch，在branch删减的内容，在pull request中是以红色标出了原先内容和删减后的内容，本次实验修改内容：（）改成md格式
+create develop10 branch，休息半小时后在走一遍流程，次怪develop9，增加“没有成为txt”
