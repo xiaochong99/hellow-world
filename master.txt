@@ -22,3 +22,5 @@ create developA branch，并且咋developA branch创建developA.txt文件。那�
 那接下来不去看master branch怎样，直接create new pull request，把developA branch与master branch进行Merge。看看效果如何。
 把developA.txt与master进行merge后，master的文件也自动变成了在developA branch中建立的decelopA.txt文件。
 在master branch下创建了develop branch，在develop branch下通过Edit file把developA.txt修改为develop.txt并commit changes
+果然，在develop branch中的Edit file修改好的develop.txt跟master branch进行merge，master branch中的developA.txt变成了跟develop branch一样的develop.txt文件。
+下面执行下一步操作，在master branch中Edit file中建立master.txt 并与develop branch进行merge。
