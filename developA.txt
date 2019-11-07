@@ -19,3 +19,4 @@ create develop13.txt branch。尝试在develop.txt branch下建立txt文件
 在master branch 创建master.txt文件
 create developA branch，并且咋developA branch创建developA.txt文件。那就在hellow-world/后面直接将master.txt修改成developA.txt
 但是这个时候再点击master branch 就会出现“404”页面。跟刚才是出现的问题一样。
+那接下来不去看master branch怎样，直接create new pull request，把developA branch与master branch进行Merge。看看效果如何。
