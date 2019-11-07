@@ -8,4 +8,5 @@ Make and commit changes
 但是在第四次的时候，忘了在master下create develop4 branch，以至于后来在pull request时不成功。
 现在edit是在develop4 branch下进行的，接下来创建pull request
 第五次走教程，在master下create develop4 branch，并记录下我的过程（md格式）
-create develop6 branch（md格式）
+create develop6 branch
+create develop7 branch，尝试删除“测rate develop6 branch中的字：（md格式）”
