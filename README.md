@@ -9,4 +9,5 @@ Make and commit changes
 现在edit是在develop4 branch下进行的，接下来创建pull request
 第五次走教程，在master下create develop4 branch，并记录下我的过程（md格式）
 create develop6 branch
-create develop7 branch，尝试删除“测rate develop6 branch中的字：（md格式）”
+create develop7 branch，尝试删除“测rate develop6 branch中的字：md格式”
+create develop8 branch，在develop7 branch中删除的内容，在pull request中，用红色显示了删减记录。本次再一次重复尝试删除内容：（）
